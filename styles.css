@@ -105,3 +105,8 @@
 .row_2 {
 	display: inline-table;
 }
+.image {
+	width: 440px;
+	height: 440px;
+	padding: 20px;
+}
