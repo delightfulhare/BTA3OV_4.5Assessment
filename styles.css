@@ -106,6 +106,7 @@
 /** Product styling */
 .products {
 	padding: 70px 0;
+	margin-left: 10px;
 }
 .row {
 	display: inline-table;
