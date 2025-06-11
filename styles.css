@@ -48,7 +48,7 @@
 	}
 	
 	.banner_text {
-		color: #fff;
+		color: #130e16;
 		text-align: center;
 		text-transform: uppercase;
 	}
@@ -62,25 +62,25 @@
 	
 	/* Button */
 	.bg_dark {
-		background-color: #212121;
+		background-color: #cdb2c5;
 	}
 	.bg_light {
-		background-color: #f4511e !important;
+		background-color: #b893a6 !important;
 	}
 	.text_light {
-		color: #fff;
+		color: #130e16;
 	}
 	.bg_dark, .bg_light {
 		display: inline-block;
-		color: #fff;
+		color: #130e16;
 		text-decoration: none;
 		padding: 10px 30px;
 		border-radius: 100px;
 	}
 	.btn_dark {
 		display: inline-block;
-		background-color: #212121;
-		color: #fff;
+		background-color: #cdb2c5;
+		color: #130e16;
 		text-decoration: none;
 		padding: 15px 25px;
 		border-radius: 100px;
@@ -90,7 +90,7 @@
 	}
 	.btn_dark:hover {
 		background-color: #fff;
-		color: #0a2a43;
+		color: #130e16;
 	}
 	
 	.margin_top {
