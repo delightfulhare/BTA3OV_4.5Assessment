@@ -10,10 +10,10 @@
     <body>
         <?php
         $customer = "";
-        if ( isset( $_POST['userName'] ) ){
-        $userName = $_POST['userName'];
+        if ( isset( $_POST['customer'] ) ){
+        $customer = $_POST['customer'];
         }
-        echo "<h1>Thank you for your purchase ".$userName."!</h1>\n";
+        echo "<h1>Thank you for your purchase ".$customer."!</h1>\n";
         echo "<p> You are order #1 </p>\n";
         echo "<p> You will recieve a confirmation email with your purchase</p>\n";
         echo "<p> Enjoy your flowers!</p>\n";
