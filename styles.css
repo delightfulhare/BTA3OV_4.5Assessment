@@ -134,10 +134,12 @@
 	background-color: rgba(184, 147, 166, 0.7);
 	color: #130e16;
 }
-.gallery_image{
+.gallery_image {
 	padding: 70px 0;
-	padding-left: 60px;
-	margin-left: 30px;
+	padding-left: 40px;
+}
+.gallery_photos {
+	margin-left: 40px;
 }
 
 /** About Us and Contact Us */
