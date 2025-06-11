@@ -103,7 +103,7 @@
 	text-align: center;
 }
 
-/** Product styling */
+/** Product styling and Gallery styling */
 .products {
 	padding: 70px 0;
 	margin-left: 30px;
@@ -133,6 +133,9 @@
 	width: 100%;
 	background-color: rgba(184, 147, 166, 0.5);
 	color: #130e16;
+}
+.gallery_image{
+	padding: 70px 0;
 }
 
 /** Checkout form */
