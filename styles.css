@@ -98,7 +98,7 @@
 /** Best Seller H1 */
 .header {
 	color: #88689c;
-	font-size: 20px;
+	font-size: 50px;
 	font-family:Arial, Helvetica, sans-serif;
 	text-align: center;
 }
@@ -132,3 +132,6 @@
 	background-color: #b893a6;
 	color: #130e16;
 }
+
+/** Checkout form */
+
