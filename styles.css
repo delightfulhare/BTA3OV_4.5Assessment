@@ -72,7 +72,7 @@
 	}
 	.bg_dark, .bg_light {
 		display: inline-block;
-		color: #130e16;
+		color: #fff;
 		text-decoration: none;
 		padding: 10px 30px;
 		border-radius: 100px;
@@ -80,7 +80,7 @@
 	.btn_dark {
 		display: inline-block;
 		background-color: #cdb2c5;
-		color: #130e16;
+		color: #fff;
 		text-decoration: none;
 		padding: 15px 25px;
 		border-radius: 100px;
