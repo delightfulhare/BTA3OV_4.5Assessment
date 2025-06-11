@@ -143,6 +143,9 @@
 }
 
 /** About Us and Contact Us */
+.about_us {
+	padding: 70px 0;
+}
 .bg {
 	width: 1825px;
 	height: 400px;
