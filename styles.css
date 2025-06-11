@@ -62,10 +62,10 @@
 	
 	/* Button */
 	.bg_dark {
-		background-color: #cdb2c5;
+		background-color: #b893a6;
 	}
 	.bg_light {
-		background-color: #b893a6 !important;
+		background-color: #cdb2c5 !important;
 	}
 	.text_light {
 		color: #130e16;
@@ -79,7 +79,7 @@
 	}
 	.btn_dark {
 		display: inline-block;
-		background-color: #cdb2c5;
+		background-color: #b893a6;
 		color: #fff;
 		text-decoration: none;
 		padding: 15px 25px;
