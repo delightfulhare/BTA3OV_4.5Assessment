@@ -140,6 +140,20 @@
 	margin-left: 30px;
 }
 
+/** About Us and Contact Us */
+.bg {
+	width: 1825px;
+	height: 400px;
+	margin: 0 40px;
+	background-color: #b893a6;
+}
+.text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #fff;
+	padding: 20px;
+}
+
 /** Checkout form */
 .row_3 {
 	display: -ms-flexbox;
