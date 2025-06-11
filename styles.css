@@ -153,6 +153,19 @@
 	color: #fff;
 	padding: 20px;
 }
+.discover {
+	width: 1825px;
+	height: 400px;
+	margin: 0 40px;
+	background-color: #f7fdf8;
+}
+#about {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	color: #b893a6;
+	padding: 10px;
+    margin-left: 1000px;
+}
 
 /** Checkout form */
 .row_3 {
