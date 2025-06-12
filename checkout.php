@@ -9,7 +9,7 @@
     </head>
     <body>
         <?php
-        /**$customer = "";
+        $customer = "";
         if ( isset( $_POST['customer'] ) ){
         $customer = $_POST['customer'];
         }
@@ -17,7 +17,6 @@
         echo "<p> You are order #1 </p>\n";
         echo "<p> You will recieve a confirmation email with your purchase</p>\n";
         echo "<p> Enjoy your flowers!</p>\n";
-        */
         ?>
     </body>
 </html>
