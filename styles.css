@@ -139,8 +139,7 @@
 	padding-left: 40px;
 }
 .gallery_photos {
-	/**margin-left: 100px;*/
-	align-items: center;
+	margin-left: 100px;
 }
 
 /** About Us and Contact Us */
